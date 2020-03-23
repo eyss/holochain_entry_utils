@@ -1,6 +1,6 @@
 # holochain_entry_utils
 
-Holochain utilities around entries
+Holochain utilities crate around entries, implementing common behaviour and functions.
 
 ## Usage
 
