@@ -3,6 +3,10 @@ name = "holochain_entry_utils"
 version = "0.1.0"
 authors = ["guillem <guillem.cordoba@gmail.com>"]
 edition = "2018"
+description = "Holochain utilities around entries with default behaviours"
+repository = "https://github.com/holochain-open-dev/holochain_entry_utils"
+documentation = "https://docs.rs/holochain_entry_utils"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
