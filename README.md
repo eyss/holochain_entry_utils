@@ -8,7 +8,7 @@ Add this dependency to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-holochain_entry_utils = "0.1"
+holochain_entry_utils = "0.1.1"
 ```
 
 Implement the `HolochainEntry` trait:
