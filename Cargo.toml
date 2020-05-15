@@ -14,5 +14,5 @@ license-file = "LICENSE"
 serde = "1.0"
 serde_json = { version = "1.0", features = ["preserve_order"] }
 serde_derive = "1.0"
-hdk = "=0.0.48-alpha1"
+hdk = { git = "https://github.com/holochain/holochain-rust" , branch = "develop" }
 holochain_json_derive = "=0.0"
