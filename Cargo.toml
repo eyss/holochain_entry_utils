@@ -1,6 +1,6 @@
 [package]
 name = "holochain_entry_utils"
-version = "0.1.3"
+version = "0.1.4"
 authors = ["guillem <guillem.cordoba@gmail.com>"]
 edition = "2018"
 description = "Holochain utilities around entries with default behaviours"
